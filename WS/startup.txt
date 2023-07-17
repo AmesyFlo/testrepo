@@ -1,0 +1,4 @@
+*title WS
+*author Amyst
+*comment your code goes here
+*finish
